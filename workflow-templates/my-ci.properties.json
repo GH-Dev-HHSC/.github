@@ -1,0 +1,6 @@
+{
+  "name": "Node.js CI",
+  "description": "Build and test a Node.js project",
+  "iconName": "nodejs",
+  "categories": ["Continuous integration", "JavaScript"]
+}
